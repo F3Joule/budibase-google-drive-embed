@@ -14,7 +14,7 @@
       },
       {
         "type": "text",
-        "key": "url",
+        "key": "apiKey",
         "label": "API key"
       },
       {
