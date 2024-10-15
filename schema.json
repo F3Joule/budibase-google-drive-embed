@@ -2,8 +2,8 @@
   "type": "component",
   "metadata": {},
   "schema": {
-    "name": "Google-drive-embed",
-    "friendlyName": "Google-drive-embed",
+    "name": "Google-drive-embed-sdk",
+    "friendlyName": "Google-drive-embed-sdk",
     "description": "An amazing Budibase component!",
     "icon": "Text",
     "settings": [
@@ -11,6 +11,11 @@
         "type": "text",
         "key": "url",
         "label": "File/Folder url"
+      },
+      {
+        "type": "text",
+        "key": "url",
+        "label": "API key"
       },
       {
         "type": "number",
